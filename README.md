@@ -1,12 +1,12 @@
 # Python Calculator 🧮
 
-A simple command-line calculator application developed with Python.
+A simple **Turkish command-line calculator application** developed with Python.
 
 ## 📌 About the Project
 
 **Python Calculator** is a beginner-friendly calculator project created to practice fundamental Python programming concepts.
 
-The application allows the user to perform basic mathematical operations through the command line.
+The application provides a **Turkish-language command-line interface** and allows the user to perform basic mathematical operations.
 
 ## ✨ Features
 
@@ -14,6 +14,7 @@ The application allows the user to perform basic mathematical operations through
 * ➖ Subtraction
 * ✖️ Multiplication
 * ➗ Division
+* 🇹🇷 Turkish-language interface
 * 💻 Command-line interface
 * 🐍 Written entirely in Python
 
@@ -53,7 +54,7 @@ python main.py
 
 This project was created as part of my journey to learn Python and develop my programming skills.
 
-More features and improvements may be added as I continue learning.
+The project is currently designed with a **Turkish-language interface** and may receive new features and improvements as I continue learning.
 
 ## 📄 License
 
